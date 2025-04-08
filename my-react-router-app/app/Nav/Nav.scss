@@ -1,0 +1,32 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  width: 80%;
+  margin: 10px auto;
+  border-radius: 5%;
+}
+
+.nav-bar-light {
+  background-color: white;
+}
+
+.nav-bar-dark {
+  background-color: hsl(226, 25%, 17%);
+}
+
+.nav-button {
+  border: none;
+  height: 41px;
+  width: 41px;
+  border-radius: 4px;
+}
+
+.nav-button-dark {
+  background-color: hsl(226, 11%, 37%);
+}
+
+.nav-buton-light {
+  background: hsl(0, 0%, 93%);
+}
